@@ -13,7 +13,7 @@ Per-player host controls, lobby management, and game-state monitoring in one pan
 <a href="https://github.com/SNOWHAXX/KrushMenu/"><img src="https://img.shields.io/badge/KrushMenu-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
 <a href="https://discord.gg/zgwTD4FFFx"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 <a href="https://github.com/SNOWHAXX/KrushMenu/stargazers"><img src="https://img.shields.io/github/stars/SNOWHAXX/KrushMenu?style=for-the-badge&color=yellow" alt="Stars"></a>
-<a href="https://github.com/SNOWHAXX/KrushMenu/releases"><img src="https://img.shields.io/badge/Version-1.0.1_Stable-success?style=for-the-badge" alt="Version"></a>
+<a href="https://github.com/SNOWHAXX/KrushMenu/releases"><img src="https://img.shields.io/badge/Version-1.0.2_Stable-success?style=for-the-badge" alt="Version"></a>
 
 ![KrushMenu in practice](InPractice.png)
 
